@@ -1,12 +1,4 @@
 # 14-Bit Counter with Pin Wiggler
-## Table of Contents
-## Introduction
-## Project Description
-## Design Overview
-## Target Devices
-## Getting Started
-## Tool Versions
-## License
 
 ## Introduction
 This project, "14-Bit Counter with Pin Wiggler," is a simple Verilog module designed for an Arty S7-25 FPGA development board. It implements a 14-bit counter that counts from 0 to 15 and wraps around. Additionally, it toggles the pins on the Pmod headers JA and JB, creating a "pin wiggling" effect. This project is intended as a basic example for learning FPGA development with the Arty S7-25 board.
